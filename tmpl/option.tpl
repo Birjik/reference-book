@@ -1,0 +1,1 @@
+<a href="%address%?view=config">Добвить статью</a>
