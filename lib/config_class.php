@@ -10,7 +10,7 @@
 		$user="root",
 		$password="",
 		$admin="Admin",
-		$admname="Ауганов Биржан",
+		$admname="Р‘РёСЂР¶Р°РЅ РђСѓРіР°РЅРѕРІ",
 		$admemail="birzhan7777@gmail.com",
 		$dir_text="lib/text/",
 		$dir_tmpl="tmpl/",
