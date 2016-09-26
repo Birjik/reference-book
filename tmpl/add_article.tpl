@@ -1,10 +1,10 @@
-<h1>Написть статью</h1>
+<h1>РќР°РїРёСЃР°С‚СЊ СЃС‚Р°С‚СЊСЋ</h1>
 %message%
 <p>
 	<form action="functions.php" method="post">
         <table align="center" width="500px" border="0px">           
         	<tr>
-        		<td>Название статьи</td>
+        		<td>РќР°Р·РІР°РЅРёРµ СЃС‚Р°С‚СЊРё</td>
         	</tr>
         	<tr>
         	    <td>
@@ -12,7 +12,7 @@
         		</td>
         	</tr>
         	<tr>
-        		<td>Вступительный текст</td>
+        		<td>Р’СЃС‚СѓРїРёС‚РµР»СЊРЅС‹Р№ С‚РµРєСЃС‚</td>
         	</tr>
         	<tr>
         		<td>
@@ -20,7 +20,7 @@
         		</td>
         	</tr>
         	<tr>
-        		<td>Полный текст</td>
+        		<td>РџРѕР»РЅС‹Р№ С‚РµРєСЃС‚</td>
         	</tr>        
         	<tr>
         		<td>
@@ -29,7 +29,7 @@
         	</tr>
         	<tr>
         		<td>
-        			<input name="article" type="submit" value="Опубликовать">
+        			<input name="article" type="submit" value="РћРїСѓР±Р»РёРєРѕРІР°С‚СЊ">
         		</td>
         	</tr>                                      
         </table>
