@@ -4,7 +4,7 @@
 		%variants%	
 		<tr>
 			<td colspan="2">
-				<input type="submit" name="poll" value="Ãîëîñîâàòü">
+				<input type="submit" name="poll" value="Ğ“Ğ¾Ğ»Ğ¾ÑĞ¾Ğ²Ğ°Ñ‚ÑŒ">
 			</td>
 		</tr>
 	</table>
