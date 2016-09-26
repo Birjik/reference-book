@@ -5,6 +5,6 @@
 	<p class="right">
 		<span>%date%</span>
 		<br>
-		<a href="%link_article%">Подробнее</a>
+		<a href="%link_article%">РџРѕРґСЂРѕР±РЅРµРµ</a>
 	</p>
 </div>
