@@ -12,7 +12,7 @@
 			if($this->page>$count_of_pages || $this->page<1)$this->notFound();
 		}
 		protected function getTitle(){
-			 if($this->page>1)return $this->section_info["title"]." - Ñòðàíèöà ".$this->page;
+			 if($this->page>1)return $this->section_info["title"]." - Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ".$this->page;
 			 else return $this->section_info["title"];
 		}
 		protected function getDescription(){
