@@ -6,13 +6,13 @@
 			header("HTTP/1.0 404 Not Found");
 		}
 		protected function getTitle(){
-			 return "Ñòðàíèöà íå íàéäåíà  - 404";
+			 return "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° - 404";
 		}
 		protected function getDescription(){
-			 return "Çàïðîøåííàÿ ñòðàíèöà íå ñóùåñòâóåò.";
+			 return "Ð—Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
 		}                                        
 		protected function getKeyWords(){
-			 return "ñòðàíèöà íå íàéäåíà, ñòðàíèöà íå ñóùåñòâóåò, 404";
+			 return "ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°, ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚, 404";
 		}                                           
 		protected function getMiddle(){
 			$sr["sitename"]=$this->config->sitename;
