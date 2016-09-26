@@ -5,13 +5,13 @@
 			parent::__construct($db);	
 		}
 		protected function getTitle(){
-			 return "Ğåãèñòğàòöèÿ íà ñàéòå";
+			 return "Ğ ĞµĞ³Ğ¸ÑÑ‚Ñ€Ğ°Ñ†Ğ¸Ñ Ğ½Ğ° ÑĞ°Ğ¹Ñ‚Ğµ";
 		}
 		protected function getDescription(){
-			 return "Ğåãèñòğàöèÿ ïîëüçîâàòåëÿ íà ñàéòå.";
+			 return "Ğ ĞµĞ³Ğ¸ÑÑ‚Ñ€Ğ°Ñ†Ğ¸Ñ Ğ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ĞµĞ»Ñ Ğ½Ğ° ÑĞ°Ğ¹Ñ‚Ğµ.";
 		}
 		protected function getKeyWords(){
-			 return "ğåãèñòğàòöèÿ ñàéò,ğåãèñòğàòöèÿ ïîëüçîâàòåëü ñàéò";
+			 return "Ñ€ĞµĞ³Ğ¸ÑÑ‚Ñ€Ğ°Ñ†Ğ¸Ñ ÑĞ°Ğ¹Ñ‚, Ñ€ĞµĞ³Ğ¸ÑÑ‚Ñ€Ğ°Ñ†Ğ¸Ñ Ğ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ĞµĞ»ÑŒ Ğ½Ğ° ÑĞ°Ğ¹Ñ‚Ğµ";
 		}                                           
 		protected function getMiddle(){
 		    $sr["message"]=$this->getMessage();
