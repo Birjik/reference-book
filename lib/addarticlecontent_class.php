@@ -5,13 +5,13 @@
 			parent::__construct($db);	
 		}
 		protected function getTitle(){
-			 return "Äîáàâëåíèå ñòàòüè";
+			 return Â«ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑŒÐ¸";
 		}
 		protected function getDescription(){
-			 return "äîáàâèòü,ñòàòüÿ";
+			 return Â« ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
 		}                               
 		protected function getKeyWords(){
-			 return "äîáàâèòü,ñòàòüÿ";
+			 return Â«ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°";
 		}                                           
 		public function getMiddle(){
 			return $this->getAddArticle();
