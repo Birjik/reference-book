@@ -1,8 +1,8 @@
-<h2>Панель пользователя</h2>
+<h2>РџР°РЅРµР»СЊ РїРѕР»СЊР·РѕРІРѕС‚РµР»СЏ</h2>
 <table>
 	<tr>
 		<td>
-			Здраствуйте, <b>%username%</b>!
+			Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, <b>%username%</b>!
 		</td>
 	</tr>
 	<tr>
@@ -12,7 +12,7 @@
 	<tr>
 	<tr>
 		<td align="right">
-			<a href="%address%functions.php?logout=1">Выход</a>
+			<a href="%address%functions.php?logout=1">Р’С‹С…РѕРґ</a>
 		</td>
 	</tr>
 </table>
