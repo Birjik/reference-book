@@ -1,27 +1,27 @@
-<h2>Вход на сайт</h2>
+<h2>Р’С…РѕРґ РЅР° СЃР°Р№С‚</h2>
 %message_auth%
 <form name="auth" action="functions.php" method="post">
 	<table>
 		<tr>
-			<td>Логин:</td>
+			<td>Р›РѕРіРёРЅ:</td>
 			<td>
 				<input type="text" name="login">
 			</td>	
 		</tr>
 		<tr>							
-			<td>Пароль:</td>
+			<td>РџР°СЂРѕР»СЊ:</td>
 			<td>
 				<input type="password" name="password">
 			</td>	
 		</tr>
 		<tr>
 			<td colspan="2" align="right">
-				<input type="submit" name="auth" value="Войти">
+				<input type="submit" name="auth" value="Р’РѕР№С‚Рё">
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" align="right">
-				<a href="%address%?view=reg">Зарегистрироваться</a>
+				<a href="%address%?view=reg">Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ</a>
 			</td>
 		</tr>
 		</table>
