@@ -8,7 +8,7 @@
 			if(!$this->poll_info)$this->notFound();
 		}
 		protected function getTitle(){
-			 return "Ðåçóëüòàòû ãîëîñîâàíèÿ: ".$this->poll_info["title"];
+			 return "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ: ".$this->poll_info["title"];
 		}
 		protected function getDescription(){
 			 return $this->poll_info["title"];
