@@ -1,1 +1,1 @@
-<a href="%address%?view=config">Добвить статью</a>
+<a href="%address%?view=config">Р”РѕР±Р°РІРёС‚СЊ СЃС‚Р°С‚СЊСЋ</a>
