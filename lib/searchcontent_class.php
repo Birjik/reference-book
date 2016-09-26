@@ -7,7 +7,7 @@
 			$this->words=$this->data["words"];
 		}
 		protected function getTitle(){
-			 return "Ðåçóëüòàòû ïîèñêà: ".$this->words;
+			 return "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°: ".$this->words;
 		}
 		protected function getDescription(){
 			 return $this->words;
